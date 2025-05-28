@@ -1,0 +1,6 @@
+[submodule "link-to-audio-bot"]
+	path = link-to-audio-bot
+	url = git@github.com:timamz/link-to-audio-bot.git
+[submodule "video-to-text"]
+	path = video-to-text
+	url = git@github.com:timamz/video-to-text.git
